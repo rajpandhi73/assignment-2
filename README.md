@@ -1,0 +1,2 @@
+# assignment-2
+ASSIGNMENT 2 - C LANGUAGE
